@@ -10,8 +10,8 @@ A curated collection of reusable scripts built in JavaScript, Python, Bash, and 
 
 Click any language below to view the available scripts:
 
-* 📜 [**JavaScript Scripts**](js/) — Node.js & automation tools
-* 🐍 [**Python Scripts**](python/) — Data parsing & system utilities
+* 📜 [**JavaScript Scripts**](/js/) — Node.js & automation tools
+* 🐍 [**Python Scripts**](/python) — Data parsing & system utilities
 * 🐚 [**Bash Scripts**](bash/) — Shell automation & workflow macros
 * 🐹 [**Go Scripts**](go/) — High-performance CLI utilities
 
